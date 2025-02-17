@@ -1,0 +1,7 @@
+metric,score
+valid_loss_epoch,0.6060187816619873
+valid_Accuracy_epoch,0.6337209343910217
+valid_AUROC_epoch,0.6303583979606628
+valid_F1Score_epoch,0.4793388545513153
+valid_MatthewsCorrCoef_epoch,0.32041823863983154
+valid_CohenKappa_epoch,0.2624558210372925

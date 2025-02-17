@@ -1,0 +1,8 @@
+metric,score
+test_loss_epoch,0.044479113072156906
+test_ExplainedVariance_epoch,0.11707377433776855
+test_MeanAbsoluteError_epoch,0.15126246213912964
+test_MeanAbsolutePercentageError_epoch,57134.23828125
+test_MeanSquaredError_epoch,0.044479113072156906
+test_R2Score_epoch,0.09579741954803467
+test_RMSE_epoch,0.21090072393417358

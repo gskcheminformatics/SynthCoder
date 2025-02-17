@@ -1,0 +1,8 @@
+metric,score
+valid_loss_epoch,0.045798592269420624
+valid_ExplainedVariance_epoch,0.11609208583831787
+valid_MeanAbsoluteError_epoch,0.15878081321716309
+valid_MeanAbsolutePercentageError_epoch,51500.5703125
+valid_MeanSquaredError_epoch,0.045927975326776505
+valid_R2Score_epoch,0.114102303981781
+valid_RMSE_epoch,0.21430812776088715
